@@ -1,0 +1,99 @@
+CTI:UTILISATION
+
+CT1:Préparer votre environnement
+CT2:Arborescence de fichiers
+
+
+CPS:Pour créer votre site web, vous allez devoir créer une arborescence 
+CPS:de répertoire dans votre ordinateur. Vous aurez deux répertoires principaux, 
+CPS:la racine et la source, la source contiendra tous les .data et la racine contiendra, 
+CPS:les répertoires « css », « js », « images », « animations ». 
+CPS:Le seul répertoire que vous pouvez supprimer est « js », les seuls que vous 
+CPS:avez le droit de renommer ou de changer le chemin d’accès sont « REP_RACINE » 
+CPS:et « REP_SOURCE ». Si vous avez perdu vos répertoires, vous pouvez les créer 
+CPS:de nouveau à condition de les nommer convenablement.
+
+CIM:aborescence.png:Arborescence
+
+
+CT2:Gestion des fichiers .data
+CPS:Pour créer votre site web, il vous faudra, un fichier .data unique pour la page de 
+CPS:garde, autant de fichiers .data que vous souhaiter de chapitres et un fichier
+CPS: unique qui devra s’appeler impérativement « table_ordonancement.data ». La table 
+CPS:d’ordonancement contiendra à chaque ligne le nom du fichier .data à convertir en 
+CPS:HTML, noter que le premier sera impérativement la page de garde.
+
+CPC:Vous pouvez nommer vos fichiers chapitre et page de garde comme vous le souhaitez
+CIM:ordonancement.png:Exemple table d'ordonancement
+
+CT1:Execution du programme
+
+CPS:Pour lancer votre générateur, vous devrez lancer le terminal de votre ordinateur. 
+CPS:Sur Windows recherchez dans la barre des   taches en écrivant CMD, puis lancer
+CPS: « Invite de commandes ».Sur Linux, si vous ne savez pas ouvrir le terminal, 
+CPS:nous vous conseillons de vous documenter selon votre distribution.
+CIM:cmd.png:Recherche CMD
+
+CPS:La suite des illustrations se fera sous Windows, mais l’utilisation est la même.
+CPS:Peu importe votre système d’exploitation. Une fois dans le terminal, vous devrez 
+CPS:tout d’abord vous diriger vers le répertoire ou est contenu votre code. 
+CPS:Pour ce faire récupérer le chemin d’accès, en
+CPS:cliquant en haut de la barre de votre explorateur Windows. Puis copier là.
+
+CIM:raccourci.png:raccourci
+
+CPS:Ensuite aller dans le terminal et faites l’instruction suivante :
+CCO:cd Votre_chemin_d’accès
+CIM:acces.png:Chemin d'acces
+
+CPS:Une fois dans votre répertoire, si vous n’avez jamais utilisé le programme, 
+CPS:vous devrez exécuter au moins une fois la commande suivante
+
+CCO:javac -encoding « UTF-8 » *.java
+
+CIM:compile.png:Commande de compilation
+
+CPS:Une fois fait vous allez devoir noter le chemin d’accès à votre répertoire racine 
+CPS:et répertoire source, comme pour le chemin d’accès au code. Vous enregistrerez 
+CPS:également le nom de la feuille de style CSS que vous souhaitez utiliser. Et vous 
+CPS:ferez la commande suivante en remarquant la présence du slash à la fin des répértoires:
+
+CCO:java Generateur [Racine] [Source] [feuille de style]
+
+
+CIM:execution.png:Commande pour éxecuter
+
+CPS:Vous avez réussi à créer vos pages web, vous avez désormais une page de garde 
+CPS:appelé suffixe.html, un sommaire portant le nom de vos pages web avec le 
+CPS:suffixe _00.html et toutes vos pages web numéroté. Vous pourrez retrouver vos 
+CPS:pages web dans le répertoire RACINE.
+
+
+CT2:Modification du style
+
+CPS:Il est possible de modifier l’apparence de vos documents générés. 
+CPS:Pour cela, il vous suffit de vous rendre dans le /REP_RACINE/ est de 
+CPS:modifier le fichier « style.css ». La modification de ce dernier est 
+CPS:relativement simple. Voici une partie du code CSS commenté.
+
+CIM:css.png:code CSS
+
+CPS:Si vous avez des connaissances en css, sachez que nous vous avons 
+CPS:créé des classes pour vous faciliter la tâche, voici les noms selon les balises.adre
+
+CLO:cadreDiv / div
+CLO:cadreP / p
+CLO:garde / img ( Image figurant dans la page de garde )
+CLO:anime / img ( Image figurant parmi les images animées )
+CLO:standard / img ( Image figurant dans les fichiers chapitres )
+CLO:next / p ( Figure dans l’aside des pages chapitres pour suivant et précédent )
+CLO:navGarde / nav ( Balise nav figurant dans la page de garde )
+CLO:artGarde / article ( Balise article figurant dans la page de garde )
+CLO:editChapter / li (Balise li figurant dans le sommaire pour les noms de chapitres)
+CT2:Cas d'erreur
+
+CPS:Nous traitons pour vous les cas d’erreur si votre table d’ordonancement, 
+CPS:feuille de style, répertoires js, animations existent ou non. 
+CPS:Cependant soucieux de vous fournir un site web complet, nous vous obligeons 
+CPS:à mettre du texte alternatif à vos images, ainsi si vous ne mettez pas de texte 
+CPS:alternatif alors vous aurez une erreur.
