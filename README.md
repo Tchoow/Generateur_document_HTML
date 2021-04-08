@@ -29,10 +29,12 @@ Aller dans le repertoire CODE à l'aide de votre termial.
 1) Allez dans le répertoire CODE/
 
 Permet de compiler l'ensemble des fichiers du programme.
+
 2) javac -encoding "UTF-8" *.java
 
 Permet de générer le les fichiers en fonction du scénario choisi
 Exemple: Nain
+
 3) java ../REP_RACINE/Nain/ ../REP_SOURCE/ style.css
 
 4) La génération se trouve dans le répertoire /REP_RACINE
