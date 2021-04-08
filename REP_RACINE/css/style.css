@@ -1,0 +1,51 @@
+body {
+  background-color: #add9e6;      /* Couleur d'arrière plan         */
+  margin : 0px  10px 0px 10px;    /* Marge du document              */
+  font-family: Arial, sans-serif; /* Police d'écriture              */
+}
+header, footer {
+  background-color: #0066CC;
+  font-size: 30px; 
+  text-align: center;
+  color: white;
+  padding: 15px;
+  margin : 0px  -10px 0px -10px
+}
+nav, aside {
+  display: table;
+  background-color: aliceblue;
+  border: solid 1px black;
+  margin-top: 10px;
+  padding: 7px
+}
+img {
+  width: 200px;
+  height: auto;
+}
+aside {
+  position: absolute;
+  right: 10px
+}
+ article h1, h2 {
+  text-align: center;
+  background: #7fcbe2;
+  border-radius: 12px;
+}
+h1{
+  font-size: 30px;
+}
+h2 {
+  font-size: 24px;
+}
+#navGarde {
+  position: absolute;
+}
+#artGarde {
+  float: right;
+}
+html {
+  scroll-behavior: smooth        /* Navigation fluide entre les ancres */
+}
+.cadreP, div {
+  border: solid black 1px;
+}
