@@ -1,0 +1,225 @@
+CTI:Divinités de l'Olympe
+
+CPS:Les dieux et déesses de l'Olympe sont douze dieux et déesses plus importants que les autres, 
+CPS:parmi la multitude des dieux du panthéon gréco-romain antique1. 
+CPS:Selon la mythologie grecque, ces douze dieux siégeaient sur le mont Olympe, le plus haut sommet de la Grèce. 
+
+CPS:La liste a varié quelque peu au cours du temps. 
+CPS:Les premiers écrits du VIIIe ou VIIe siècle av. J.-C. 
+CPS:(Hymnes homériques et Théogonie d'Hésiode) donnent la liste suivante, dite « liste canonique » 
+
+///-------------
+/// Aphrodite
+///-------------
+CT1:Aphrodite
+
+CIM:Aphrodite.jpg:Image de la divinité Aphrodite
+
+CT2:Nom romain
+
+CPS: Vénus
+
+CT2:Fonction
+
+CPS: Déesse de l'amour, de la beauté et de la séduction, elle est née du sang d'Ouranos, 
+CPS:le Ciel et son époux est Héphaistos, le plus laid des dieux. Arès est son amant.
+
+
+CT2:Attributs et symbole
+
+CPS: Nudité, myrrhe, myrte, rose, coquillages, ceinture magique, colombe, cygne, 
+CPS: moineau, lièvre, bélier, miroir. 
+
+///-------------
+/// Appollon
+///-------------
+CT1:Appollon
+
+CIM:Appollon.jpg:Image de la divinité Appolon
+
+CT2:Nom romain
+
+CPS: Phébus
+
+CT2:Fonction
+
+CPS:Dieu du Soleil, de la musique, de l'archerie, de la prophétie et de la guérison. 
+CPS:Il est le frère jumeau d'Artémis et le fils de Zeus et de Léto. 
+
+
+CT2:Attributs et symbole
+
+CPS: Arc, lyre, flûte, cornes de bovidés, laurier, trépied, corbeau, dauphin,
+CPS: soleil, beaux arts. 
+
+///-------------
+/// Arès
+///-------------
+CT1:Arès
+
+CIM:Arès.jpg:Image de la divinité Arès
+
+CT2:Nom romain
+
+CPS: Mars
+
+CT2:Fonction
+
+CPS:Dieu de la guerre, des crimes de sang, des armes et de la violence. 
+CPS:Ses acolytes étaient le Chagrin, la Discorde, la Crainte et la Terreur. Il est le fils de Zeus et de son épouse Héra. . 
+
+
+CT2:Attributs et symbole
+
+CPS: Lance, casque, armure, primevère, chien, vautour, bouclier, 
+CPS: glaive (arme plus longue qu'un poignard, mais plus courte qu'une épée), pivert, sanglier. 
+
+///-------------
+/// Artémis
+///-------------
+CT1:Artémis
+
+CIM:Artémis.jpg:Image de la divinité Artémis
+
+CT2:Nom romain
+
+CPS: Diane
+
+CT2:Fonction
+
+CPS: Déesse de la chasse, de la nature sauvage et de la lune. 
+CPS:Sœur jumelle d'Apollon, elle est la fille de Zeus et de l'une de ses maîtresses, la titanide Léto . 
+CPS:Artémis est une déesse vierge, protectrice des jeunes filles. 
+CPS:Elle les enrôle dès l'adolescence dans son cortège de chasseresses. Elles font vœu de rester vierges, tout comme Artémis. 
+
+CT2:Attributs et symbole
+
+CPS:  Arc, croissant de lune, carquois, flèches d'argent, myrte, biche, ours. 
+
+///-------------
+/// Athéna
+///-------------
+CT1:Athéna
+
+CIM:Athéna.jpg:Image de la divinité Athéna
+
+CT2:Nom romain
+
+CPS: Minerve
+
+CT2:Fonction
+
+CPS: Déesse de la sagesse, de la raison et de la stratégie guerrière, protectrice d'Athènes. 
+CPS:Elle est la fille de Zeus et de sa première épouse Métis . 
+
+CT2:Attributs et symbole
+
+CPS: Égide (arme magique, peut-être un bouclier en peau de chèvre), 
+CPS: olivier, lance, casque, gorgonéion (bouclier orné d'une tête de Méduse), chouette. 
+
+///-------------
+/// Héphaïstos
+///-------------
+CT1:Héphaïstos
+
+CIM:Héphaistos.jpg:Image de la divinité Héphaistos
+
+CT2:Nom romain
+
+CPS: Vulcain
+
+CT2:Fonction
+
+CPS: Dieu du feu, de la forge et des métaux. Très laid, car, à la suite d'une dispute, Héra le projeta sur Terre, l'estropiant à jamais.
+CPS: Il est le fils de la déesse Héra et de Zeus, selon certains auteurs.
+CPS: Il est marié à Aphrodite, mais elle ne l'aime pas, en raison de ses disgrâces. 
+
+
+CT2:Attributs et symbole
+
+CPS: Marteau, enclume, béquille, bouton d'or, âne, masse. 
+
+///-------------
+/// Héra
+///-------------
+CT1:Héra
+
+CIM:Héra.jpg:Image de la divinité Héra
+
+CT2:Nom romain
+
+CPS: Junon
+
+CT2:Fonction
+
+CPS:Déesse du mariage, des femmes, de la naissance et protectrice des femmes mariées. 
+CPS:Elle est l'épouse et la sœur de Zeus. 
+
+
+CT2:Attributs et symbole
+
+CPS: Paon, génisse, sceptre, couronne. 
+
+///-------------
+/// Hermès
+///-------------
+CT1:Hermès
+
+CIM:Hermès.jpg:Image de la divinité Hermès
+
+CT2:Nom romain
+
+CPS: Mercure
+
+CT2:Fonction
+
+CPS: Dieu du mouvement, des voleurs, du commerce et des voyageurs. Messager des dieux. 
+
+
+CT2:Attributs et symbole
+
+CPS: Caducée, bourse d'argent, pétase (chapeau rond), sandales ailées, casque. 
+
+///-------------
+/// Poséidon
+///-------------
+CT1:Poséidon
+
+CIM:Poséidon.jpg:Image de la divinité Posséidon
+
+CT2:Nom romain
+
+CPS: Neptune
+
+CT2:Fonction
+
+CPS:  Dieu de la mer et des chevaux. Fils de Cronos et Rhéa. 
+
+
+CT2:Attributs et symbole
+
+CPS: Tient un trident. Se déplace sur un char attelé à des chevaux, poisson : 
+CPS: trident, dauphin, mer, char aquatique. 
+
+///-------------
+/// Zeus
+///-------------
+CT1:Zeus
+
+CIM:Zeus.jpg:Image de la divinité Zeus
+
+CT2:Nom romain
+
+CPS: Jupiter
+
+CT2:Fonction
+
+CPS:  	Père des dieux et des hommes. 
+CPS; Il est le dieu des dieux. Après avoir envoyé son père au Tartare avec l'aide de ses frères Poséidon et Hadès, 
+CPS;il exerce sa souveraineté sur le mont Olympe, le ciel, le tonnerre et les éclairs. 
+CPS:Marié à Héra, il est le père d'Hermès, d'Héphaïstos, de Dionysos, d'Athéna et d'Arès. 
+
+CT2:Attributs et symbole
+
+CPS:Tient un foudre (nom masculin : figure d'un éclair), 
+CPS:chêne, égide (voir Athéna), aigle, taureau, trône. 
